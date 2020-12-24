@@ -1,0 +1,7 @@
+E:\Работы VS\Stroki\bin\Debug\Stroki.exe.config
+E:\Работы VS\Stroki\bin\Debug\Stroki.exe
+E:\Работы VS\Stroki\bin\Debug\Stroki.pdb
+E:\Работы VS\Stroki\obj\Debug\Stroki.csprojAssemblyReference.cache
+E:\Работы VS\Stroki\obj\Debug\Stroki.csproj.CoreCompileInputs.cache
+E:\Работы VS\Stroki\obj\Debug\Stroki.exe
+E:\Работы VS\Stroki\obj\Debug\Stroki.pdb
